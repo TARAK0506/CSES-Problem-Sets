@@ -1,0 +1,48 @@
+# Compiled executables
+
+*.exe
+*.out
+*.o
+*.obj
+*.bin
+
+# Build directories
+
+build/
+bin/
+obj/
+
+# Debug files
+
+*.dSYM/
+*.pdb
+
+# IDE / Editor files
+
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Logs
+
+*.log
